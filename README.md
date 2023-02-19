@@ -1,6 +1,7 @@
-[![MasterHead](https://www.git-tower.com/blog/assets/img/default-post-header@960w.png)](https://github.com/rashidshamloo/)
+<!-- [![MasterHead](https://www.git-tower.com/blog/assets/img/default-post-header@960w.png)](https://github.com/rashidshamloo/) -->
+<a href="https://github.com/rashidshamloo"><img src="https://www.git-tower.com/blog/assets/img/default-post-header@960w.png" width="100%"></a>
 <h1 align="center">Hi 👋, I'm Rashid Shamloo</h1>
-___
+
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=E5C07B&width=600&height=60&lines=A+passionate+frontend+developer+from+Iran" alt="Typing SVG" width="600" /></a></div>
 
 ![](https://komarev.com/ghpvc/?username=rashidshamloo)
