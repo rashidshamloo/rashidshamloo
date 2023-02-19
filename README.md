@@ -30,6 +30,6 @@
 
 <div align="center"><a href="https://github.com/rashidshamloo"><img height="300" src="https://github-profile-trophy.vercel.app/?username=rashidshamloo&theme=onedark&margin-w=10&margin-h=10&no-frame=true&row=2&column=3"></a> <a href="https://github.com/rashidshamloo"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidshamloo&theme=onedark&hide_border=true"></a></div>
 
-<div align="center"><a href="https://github.com/rashidshamloo"><img width="50%" height="204" src="https://github-readme-stats.vercel.app/api?username=rashidshamloo&show_icons=true&theme=onedark&hide_border=true"></a><a href="https://github.com/rashidshamloo"><img width="50%" height="204" src="http://github-readme-streak-stats.herokuapp.com/?user=rashidshamloo&theme=onedark&hide_border=true"></a></div>
+<div align="center"><a href="https://github.com/rashidshamloo"><img height="204" src="https://github-readme-stats.vercel.app/api?username=rashidshamloo&show_icons=true&theme=onedark&hide_border=true"></a><a href="https://github.com/rashidshamloo"><img height="204" src="http://github-readme-streak-stats.herokuapp.com/?user=rashidshamloo&theme=onedark&hide_border=true"></a></div>
 
 
