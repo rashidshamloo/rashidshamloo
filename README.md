@@ -34,3 +34,5 @@ ___
 <a href="https://github.com/rashidshamloo"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=rashidshamloo&show_icons=true&theme=onedark&hide_border=true"></a>
 
 <a href="https://github.com/rashidshamloo"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=rashidshamloo&theme=onedark&hide_border=true"></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidshamloo&theme=onedark&hide_border=true)](https://github.com/rashidshamloo)
