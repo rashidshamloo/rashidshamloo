@@ -1,9 +1,9 @@
-<!-- [![MasterHead](https://www.git-tower.com/blog/assets/img/default-post-header@960w.png)](https://github.com/rashidshamloo/) -->
-<a href="https://github.com/rashidshamloo"><img src="https://www.git-tower.com/blog/assets/img/default-post-header@960w.png" width="100%"></a>
+<!-- [![MasterHead](header.jpg)](https://github.com/rashidshamloo/) -->
+<a href="https://github.com/rashidshamloo"><img src="header.jpg" width="100%"></a>
 <hr>
 <h1 align="center">Hi 👋, I'm Rashid Shamloo</h1>
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=E5C07B&width=600&height=60&lines=A+passionate+frontend+developer+from+Iran" alt="Typing SVG" width="600" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=E5C07B&width=700&height=60&lines=A+passionate+frontend+developer+and+avid+learner" alt="Typing SVG" width="700" /></a></div>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=rashidshamloo"> <img src="https://badges.strrl.dev/repos/rashidshamloo"></div>
 
@@ -21,11 +21,11 @@
 
 
 <h2>:snake: Contribution Graph</h2>
-<div align="center"><picture>
+<div align="center"><a href="https://github.com/rashidshamloo"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rashidshamloo/rashidshamloo/blob/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/rashidshamloo/rashidshamloo/blob/output/github-snake.svg">
   <img alt="github-snake" src="github-snake.svg">
-</picture></div>
+  </picture></a></div>
 
 <h2>:fire: GitHub Statistics</h2>
 
