@@ -35,6 +35,6 @@
 
 <div align="center"><a href="https://github.com/rashidshamloo"><img height="166" src="https://github-readme-stats.vercel.app/api?username=rashidshamloo&show_icons=true&theme=onedark&hide_border=true"></a> <a href="https://github.com/rashidshamloo"><img height="166" src="http://github-readme-streak-stats.herokuapp.com/?user=rashidshamloo&theme=onedark&hide_border=true"></a></div>
   
-<div align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rashidshamloo&theme=xcode&hide_border=true&area=true" width="822"/></div>
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=rashidshamloo&theme=xcode&hide_border=true&area=true" width="822"/></div>
 
 
