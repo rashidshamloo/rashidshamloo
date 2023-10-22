@@ -13,7 +13,7 @@
 <hr>
 
 <h2>:two_men_holding_hands: Connect with Me</h2>
-<div align="center"><a href="https://www.rashidshamloo.ir" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a> <a href="mailto:rashidshamloo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email"/></a> <a href="https://www.linkedin.com/in/rashid-shamloo/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin" /></a> <a href="https://twitter.com/rashidshamloo/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" title="Twitter"/> <a href="https://www.frontendmentor.io/profile/rashidshamloo" target="_blank">
+<div align="center"><a href="https://www.rashidshamloo.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a> <a href="mailto:rashidshamloo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email"/></a> <a href="https://www.linkedin.com/in/rashid-shamloo/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin" /></a> <a href="https://twitter.com/rashidshamloo/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" title="Twitter"/> <a href="https://www.frontendmentor.io/profile/rashidshamloo" target="_blank">
   <img src="fem2.png" alt="Frontendmentor" title="Frontendmentor" /></a> <a href="https://dev.to/rashidshamloo" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" title="Dev.to" /></a> <a href="https://rashidshamloo.hashnode.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" title="Hashnode" /></a></div>
@@ -30,7 +30,7 @@
 
 <div align="center"><h3>Frameworks</h3></div>
 
-<div align="center"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></div>
+<div align="center"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></div>
 
 <div align="center"><h3>State Management</h3></div>
 
@@ -63,6 +63,31 @@
 <div align="center"><h3>Back-end</h3></div>
 
 <div align="center"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /></div>
+
+<h2>:pushpin: Featured Repos</h2>
+
+<div align="center"><h3>React Native</h3></div>
+<div align="center"><a href="https://github.com/rashidshamloo/recipe-ranking/">recipe-ranking</a> (TypeScript - Expo - NativeWind - RTK Query - Zod)</div>
+
+<div align="center"><h3>Next.js</h3></div>
+<div align="center"><a href="https://github.com/rashidshamloo/portfolio/">portfolio</a> (TypeScript - Tailwind - Material UI - Redux Toolkit - Zod - Framer Motion)</div>
+<div align="center"><a href="https://github.com/rashidshamloo/fem_035_job-listings-with-filtering/">fem_035_job-listings-with-filtering</a> (TypeScript - Styled-Components - Redux Toolkit - Zod - Framer Motion)</div>
+
+<div align="center"><h3>React.js</h3></div>
+<div align="center"><a href="https://github.com/rashidshamloo/fem_034_todo-app_firebase">fem_034_todo-app_firebase</a> (TypeScript - Tailwind - Framer Motion - Firebase Auth - Firebase UI - Firestore)</div>
+<div align="center"><a href="https://github.com/rashidshamloo/fem_033_ip-address-tracker">fem_033_ip-address-tracker</a> (TypeScript - Tailwind - Leaflet.js)</div>
+<div align="center"><a href="https://github.com/rashidshamloo/fem_032_huddle-landing-page-with-curved-sections">fem_032_huddle-landing-page-with-curved-sections</a> (TypeScript - Tailwind - Framer Motion)</div>
+<div align="center"><a href="https://github.com/rashidshamloo/fem_031_clipboard-landing-page">fem_031_clipboard-landing-page</a> (TypeScript - Material UI - AOS)</div>
+<div align="center"><a href="https://github.com/rashidshamloo/fem_030_interactive-pricing-component">fem_030_interactive-pricing-component</a> (TypeScript - Material UI - Sass/SCSS)</div>
+<div align="center"><a href="https://github.com/rashidshamloo/fem_029_coding-bootcamp-testimonials-slider">fem_029_coding-bootcamp-testimonials-slider</a> (TypeScript - Tailwind - Framer Motion)</div>
+<div align="center"><a href="https://github.com/rashidshamloo/japan-slider">japan-slider</a> (TypeScript - Tailwind - Swiper)</div>
+
+<div align="center"><h3>Vue.js</h3></div>
+<div align="center"><a href="https://github.com/rashidshamloo/fem_028_social-media-dashboard-with-theme-switcher">fem_028_social-media-dashboard-with-theme-switcher</a> (Tailwind - Composition API)</div>
+<div align="center"><a href="https://github.com/rashidshamloo/fem_027_pricing-component-with-toggle">fem_027_pricing-component-with-toggle</a> (Tailwind - Options API)</div>
+
+<div align="center"><h3>Node/Express</h3></div>
+<div align="center"><a href="https://github.com/rashidshamloo/fem_033_ip-address-tracker_backend">fem_033_ip-address-tracker_backend</a> (TypeScript - Node.js - Express.js)</div>
 
 
 <h2>:snake: Contribution Graph</h2>
