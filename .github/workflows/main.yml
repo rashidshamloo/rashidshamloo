@@ -1,7 +1,7 @@
 name: Generate Snake
 on:
  schedule: # execute every 6 hours
-   - cron: "0 0 * * *"
+   - cron: "0 */24 * * *"
  workflow_dispatch:
 jobs:
  build:
@@ -9,7 +9,7 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      # Snake Animation
-     - uses: Platane/snk/svg-only@v2
+     - uses: Platane/snk/svg-only@v3
        with:
          github_user_name: rashidshamloo
          outputs: |
