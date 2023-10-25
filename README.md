@@ -71,7 +71,7 @@
 
 <div align="center"><h3>Next.js</h3></div>
 <div align="center"><a href="https://github.com/rashidshamloo/portfolio/">portfolio</a> (TypeScript - Tailwind - Material UI - Redux Toolkit - Zod - Framer Motion)</div>
-<div align="center"><a href="https://github.com/rashidshamloo/fem_035_job-listings-with-filtering/">fem_035_job-listings-with-filtering</a> (TypeScript - Styled-Components - Redux Toolkit - Zod - Framer Motion)</div>
+<div align="center"><a href="https://github.com/rashidshamloo/fem_035_job-listings-with-filtering/">fem_035_job-listings-with-filtering</a> (TypeScript - Styled-Components - Redux Toolkit - Zod - Framer Motion - Cypress)</div>
 
 <div align="center"><h3>React.js</h3></div>
 <div align="center"><a href="https://github.com/rashidshamloo/fem_034_todo-app_firebase">fem_034_todo-app_firebase</a> (TypeScript - Tailwind - Framer Motion - Firebase Auth - Firebase UI - Firestore)</div>
