@@ -70,6 +70,7 @@
 <div align="center"><a href="https://github.com/rashidshamloo/recipe-ranking/">recipe-ranking</a> (TypeScript - Expo - NativeWind - RTK Query - Zod)</div>
 
 <div align="center"><h3>Next.js</h3></div>
+<div align="center"><a href="https://github.com/rashidshamloo/food-log/">Food Log</a> (TypeScript - Tailwind - Shadcn - Prisma - Turso - Clerk - Zod)</div>
 <div align="center"><a href="https://github.com/rashidshamloo/clothing-store/">Clothing Store E-Commerce Website</a> (Shopify - TypeScript - Tailwind - Swiper - Framer Motion)</div>
 <div align="center"><a href="https://github.com/rashidshamloo/sushi-restaurant/">Japanese Sushi Restaurant</a> (TypeScript - Tailwind - Swiper - Framer Motion)</div>
 <div align="center"><a href="https://github.com/rashidshamloo/ai-face-detection/">AI Face Detection</a> (TypeScript - Tailwind - RTK Query - Zod - Cypress)</div>
